@@ -39,7 +39,7 @@ If you've found a site that has tracking variables that this extension doesn't c
 
 ### 0.1.2 (10/06/23)
 
-* SAFARI: Fixed type in server-side updates file that was preventing Safari from downloading new updates. No need to manually install the new version--it should kick in on its own.
+* SAFARI: Fixed typo in server-side updates file that was preventing Safari from downloading new updates. No need to manually install the new version--it should kick in on its own.
 
 ### 0.1.1 (10/06/22)
 
