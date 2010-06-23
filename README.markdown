@@ -34,3 +34,18 @@ http://www.thestar.com/news/gta/article/826739--shots-fired-near-g20-security-zo
 ## Contribute
 
 If you've found a site that has tracking variables that this extension doesn't catch, or you've found that this extension breaks a page, open up an issue, send me an email, or add/fix it yourself.
+
+## Version History
+
+### 0.1.2 (10/06/23)
+
+* SAFARI: Fixed type in server-side updates file that was preventing Safari from downloading new updates. No need to manually install the new version--it should kick in on its own.
+
+### 0.1.1 (10/06/22)
+
+* SAFARI: Bumped version to test auto-updating.
+
+### 0.1.0 (10/06/22)
+
+* CORE: First release.
+* SAFARI: First version.
