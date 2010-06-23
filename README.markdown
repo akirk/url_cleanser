@@ -16,19 +16,19 @@ Go to the [downloads page](http://github.com/grantheaslip/url_cleanser/downloads
 
 *Note: I don't actually read TechCrunch, I just assumed they would be the best example of this bullshit, which they were.*
 
-http://techcrunch.com/2010/06/22/facebook-revenues/**?utm\_source=feedburner&utm\_medium=feed&utm\_campaign=Feed%3A+Techcrunch+%28TechCrunch%29**
+http://techcrunch.com/2010/06/22/facebook-revenues/**?utm\_source=feedburner&utm\_medium=feed&utm\_campaign=Feed%3A+Techcrunch+%28TechCrunch%29**  
 http://techcrunch.com/2010/06/22/facebook-revenues/
 
-http://www.nytimes.com/2010/06/23/world/asia/23mcchrystal.html**?partner=rss&emc=rss**
+http://www.nytimes.com/2010/06/23/world/asia/23mcchrystal.html**?partner=rss&emc=rss**  
 http://www.nytimes.com/2010/06/23/world/asia/23mcchrystal.html
 
-http://arstechnica.com/apple/reviews/2010/06/adobe-lightroom-3-review.ars**?utm\_source=rss&utm\_medium=rss&utm\_campaign=rss**
+http://arstechnica.com/apple/reviews/2010/06/adobe-lightroom-3-review.ars**?utm\_source=rss&utm\_medium=rss&utm\_campaign=rss**  
 http://arstechnica.com/apple/reviews/2010/06/adobe-lightroom-3-review.ars
 
-http://37signals.com/svn/posts/2416-clever-design-a-clock-with-aa-batteries**?utm\_source=twitterfeed&utm\_medium=twitter**
+http://37signals.com/svn/posts/2416-clever-design-a-clock-with-aa-batteries**?utm\_source=twitterfeed&utm\_medium=twitter**  
 http://37signals.com/svn/posts/2416-clever-design-a-clock-with-aa-batteries
 
-http://www.thestar.com/news/gta/article/826739--shots-fired-near-g20-security-zone**?bn=1**
+http://www.thestar.com/news/gta/article/826739--shots-fired-near-g20-security-zone**?bn=1**  
 http://www.thestar.com/news/gta/article/826739--shots-fired-near-g20-security-zone
 
 ## Contribute
