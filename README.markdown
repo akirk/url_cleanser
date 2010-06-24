@@ -37,6 +37,10 @@ If you've found a site that has tracking variables that this extension doesn't c
 
 ## Version History
 
+### 0.1.3 (10/06/23)
+
+* SAFARI: Redrew icon at 100x100 for Safari Extension Gallery submission.
+
 ### 0.1.2 (10/06/23)
 
 * SAFARI: Fixed typo in server-side updates file that was preventing Safari from downloading new updates. No need to manually install the new version--it should kick in on its own.
