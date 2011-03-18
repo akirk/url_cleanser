@@ -14,13 +14,13 @@ if (window.location.search != "") {
   window_href = window_href.replace(/([&?])ref=[^&]*(?:&|$)/, '$1'); // From cbc.ca/news feeds
   window_href = window_href.replace(/([&?])bn=[^&]*(?:&|$)/, '$1'); // From thestar.com links
   window_href = window_href.replace(/([&?])cmpid=[^&]*(?:&|$)/, '$1'); // From theglobeandmail.com links
-  window_href = window_href.replace(/([&?])feature=(?:related|player_embedded)/, '$1'); // For YouTube
+  window_href = window_href.replace(/([&?])feature=(?:related|player_embedded|fvw)/, '$1'); // For YouTube
   
   // If the string ends with the '?' character (no more GET variables left), remove it
   window_href = window_href.replace(/[&?]$/, '');
   
   // If the href has changed, update it
   if (window.location.href != window_href) {
-    window.location.href = window_href;
+    window.location.replace(window_href);
   }
 }
