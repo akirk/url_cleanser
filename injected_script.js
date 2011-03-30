@@ -1,5 +1,5 @@
-if (window.location.search !== "") {
-	query_params = window.location.search;
+if (location.search !== "") {
+	query_params = location.search;
 
 	// Remove tracking crap
 	query_params = query_params.replace(/([&?])utm_source=[^&]*(?:&|$)/, '$1'); // Google analytics tracking variable
@@ -18,10 +18,10 @@ if (window.location.search !== "") {
 
 	// If the string ends with the '?' character (no more GET variables left), remove it
 	query_params = query_params.replace(/[&?]$/, '');
-	if (query_params == "") query_params = "?";
 	
 	// If the href has changed, update it
-	if (window.location.search != query_params) {
-		window.location.replace(query_params);
+	if (location.search != query_params) {
+		if (query_params == "") query_params = location.href.replace(location.search, "");
+		location.replace(query_params);
 	}
 }
